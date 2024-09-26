@@ -29,8 +29,8 @@
             li.appendChild(removeButton);
 
             // Append the list item to the task list
-            // taskList.appendChild(li);
+            taskList.appendChild(li);
 
             // Clear the input field
-            // taskInput.value = '';
+            taskInput.value = '';
         }
