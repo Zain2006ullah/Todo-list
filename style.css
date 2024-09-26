@@ -85,14 +85,14 @@ li:hover {
 } 
 
 /* Styling of completed tasks */
-/* 
+ 
 .completed {
   text-decoration: line-through;
   color: gray;
 } */
 
 /* Styling of remove button */
-/* 
+
 .remove-btn {
   background-color: #ff6b6b;
   border: none;
@@ -105,4 +105,4 @@ li:hover {
 
 .remove-btn:hover {
   background-color: #d9534f;
-} */
+} 
