@@ -30,7 +30,7 @@ body {
 } 
 
 /* Styling of input field */
-/* #taskInput {
+ #taskInput {
   width: 75%;
   padding: 10px;
   border: 2px solid #ddd;
@@ -42,11 +42,11 @@ body {
 
 #taskInput:focus {
   border: 2px solid #4a90e2;
-} */
+} 
 
 /* Styling of button */
 
-/* button {
+ button {
   background-color: #355a30;
   color: #fff;
   padding: 10px 20px;
@@ -58,7 +58,7 @@ body {
 
 button:hover {
   background-color: #6d42b3;
-} */
+} 
 
 /* Styling of task list */
 /* ul {
