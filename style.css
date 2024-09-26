@@ -8,29 +8,29 @@ body {
   flex-direction: column;
   height: 100vh;
   margin: 0;
-}
+} 
 
 /* Styling of container */
 
-.contaniner {
+/* .contaniner {
   width: 350px;
   padding: 20px;
   background-color: #e4e0e0;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   text-align: center;
-}
+} */
 
 /* Styling of title(h1) */
 
-h1 {
+/* h1 {
   color: #060e18;
   font-size: 24px;
   margin-bottom: 20px;
-}
+} */
 
 /* Styling of input field */
-#taskInput {
+/* #taskInput {
   width: 75%;
   padding: 10px;
   border: 2px solid #ddd;
@@ -42,11 +42,11 @@ h1 {
 
 #taskInput:focus {
   border: 2px solid #4a90e2;
-}
+} */
 
 /* Styling of button */
 
-button {
+/* button {
   background-color: #355a30;
   color: #fff;
   padding: 10px 20px;
@@ -58,10 +58,10 @@ button {
 
 button:hover {
   background-color: #6d42b3;
-}
+} */
 
 /* Styling of task list */
-ul {
+/* ul {
   list-style-type: none;
   padding: 0;
   max-height: 200px;
@@ -82,17 +82,17 @@ li {
 
 li:hover {
   background-color: #e9e9e9;
-}
+} */
 
 /* Styling of completed tasks */
-
+/* 
 .completed {
   text-decoration: line-through;
   color: gray;
-}
+} */
 
 /* Styling of remove button */
-
+/* 
 .remove-btn {
   background-color: #ff6b6b;
   border: none;
@@ -105,4 +105,4 @@ li:hover {
 
 .remove-btn:hover {
   background-color: #d9534f;
-}
+} */
