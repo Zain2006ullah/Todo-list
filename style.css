@@ -12,22 +12,22 @@ body {
 
 /* Styling of container */
 
-/* .contaniner {
+.contaniner {
   width: 350px;
   padding: 20px;
   background-color: #e4e0e0;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   text-align: center;
-} */
+} 
 
 /* Styling of title(h1) */
 
-/* h1 {
+ h1 {
   color: #060e18;
   font-size: 24px;
   margin-bottom: 20px;
-} */
+} 
 
 /* Styling of input field */
 /* #taskInput {
